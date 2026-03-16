@@ -1,0 +1,25 @@
+<Configuration>
+  <Target name="My Computer">
+    <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="C_P_FACT.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="922"/>
+          <SignalUID value="887"/>
+          <SignalUID value="675"/>
+          <SignalUID value="705"/>
+          <SignalUID value="864"/>
+          <SignalUID value="952"/>
+          <SignalUID value="928"/>
+          <SignalUID value="489"/>
+        </Generic>
+      </Probes>
+    </VI>
+  </Target>
+</Configuration>
